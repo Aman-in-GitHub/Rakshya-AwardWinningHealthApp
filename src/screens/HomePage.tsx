@@ -743,6 +743,16 @@ const HomePage = ({navigation}) => {
             style={{objectFit: 'contain'}}
           />
         </View>
+
+        <TouchableOpacity
+          className="absolute right-36"
+          onPress={() => navigation.navigate('Starter3')}>
+          <Icon
+            name="edit"
+            size={29}
+            color={isDarkMode ? '#FF4263' : '#800000'}
+          />
+        </TouchableOpacity>
         <TouchableOpacity
           className="absolute right-20"
           onPress={copyToClipboard}>
