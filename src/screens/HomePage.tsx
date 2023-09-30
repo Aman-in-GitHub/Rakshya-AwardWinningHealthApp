@@ -398,11 +398,11 @@ const HomePage = ({navigation}) => {
       }
 
       if (locationMessage) {
-        // const promises = phoneNumbers.map(async phoneNumber => {
-        //   const response = await MySms.sendSOS(phoneNumber, locationMessage);
-        //   console.log(response);
-        // });
-        // await Promise.all(promises);
+        const promises = phoneNumbers.map(async phoneNumber => {
+          const response = await MySms.sendSOS(phoneNumber, locationMessage);
+          console.log(response);
+        });
+        await Promise.all(promises);
         console.log(phoneNumbers, locationMessage);
       } else {
         console.error('Location message not available');
