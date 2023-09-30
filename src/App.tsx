@@ -14,6 +14,7 @@ import Stitches from './screens/Stitches';
 import Choking from './screens/Choking';
 import Bleeding from './screens/Bleeding';
 import FirstAid from './screens/FirstAid';
+import Doctor from './screens/Doctor';
 
 const Stack = createNativeStackNavigator();
 
@@ -31,7 +32,7 @@ export default function App() {
 
       setTimeout(() => {
         setIsLoading(false);
-      }, 750);
+      }, 500);
     }
 
     checkIsSigned();
@@ -98,6 +99,11 @@ export default function App() {
         <Stack.Screen
           name="FirstAid"
           component={FirstAid}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="Doctor"
+          component={Doctor}
           options={{headerShown: false}}
         />
       </Stack.Navigator>

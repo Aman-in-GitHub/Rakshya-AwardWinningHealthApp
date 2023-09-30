@@ -56,6 +56,7 @@ const HomePage = ({navigation}) => {
   const [showMedic, setShowMedic] = useState('hospital');
   const [shouldSpeak, setShouldSpeak] = useState(false);
   const [isMicOn, setIsMicOn] = useState(false);
+  const [mode, setMode] = useState('aid');
 
   const scaleValue = useRef(new Animated.Value(1)).current;
 
@@ -455,6 +456,22 @@ const HomePage = ({navigation}) => {
     });
   }
 
+  function handleClickDoctor() {
+    if (query == '') {
+      Snackbar.show({
+        text: `Please enter your emergency`,
+        duration: Snackbar.LENGTH_SHORT,
+        textColor: 'white',
+        backgroundColor: isDarkMode ? '#FF4263' : '#800000',
+      });
+      return;
+    }
+    navigation.navigate('Doctor', {
+      queryIs: query,
+      mode: isDarkMode,
+    });
+  }
+
   function handleVoiceRecognition() {
     MyTTSModule.stopSpeech();
 
@@ -482,7 +499,24 @@ const HomePage = ({navigation}) => {
           setQuery(queryWithoutSearch);
           setIsMicOn(false);
 
+          if (mode == 'doctor') {
+            setMode('aid');
+          }
+
           navigation.navigate('FirstAid', {
+            queryIs: queryWithoutSearch,
+            mode: isDarkMode,
+          });
+        } else if (lowerCaseText.startsWith('doctor for')) {
+          const queryWithoutSearch = recognizedText.substring(11);
+
+          setIsMicOn(false);
+
+          if (mode == 'aid') {
+            setMode('doctor');
+          }
+
+          navigation.navigate('Doctor', {
             queryIs: queryWithoutSearch,
             mode: isDarkMode,
           });
@@ -750,25 +784,97 @@ const HomePage = ({navigation}) => {
               {name}
             </Text>
           </View>
-          <View
-            className="flex h-[55px] rounded-sm flex-row items-center"
-            style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
-            <TextInput
-              className="text-[12px] px-3 text-lg  w-[88%]"
-              placeholder="What's your emergency?"
-              placeholderTextColor={'#875353'}
-              value={query}
-              onChangeText={text => setQuery(text)}
-              style={{color: isDarkMode ? '#ffffff' : '#000000'}}
-            />
-            <TouchableOpacity onPress={handleClick}>
-              <Icon
-                name="search"
-                size={30}
-                color={isDarkMode ? '#FF4263' : '#800000'}
-              />
+          <View className="flex flex-row justify-between mb-2">
+            <TouchableOpacity onPress={() => setMode('aid')}>
+              <Text
+                style={{
+                  color: isDarkMode ? 'white' : 'black',
+                  borderBottomColor: isDarkMode
+                    ? mode == 'aid'
+                      ? '#FF4263'
+                      : 'transparent'
+                    : mode == 'aid'
+                    ? '#800000'
+                    : 'transparent',
+                  borderBottomWidth: 3,
+                  paddingBottom: 1,
+                  opacity: mode == 'aid' ? 1 : 0.5,
+                }}
+                className="text-[17px] font-bold">
+                <Text style={{color: isDarkMode ? '#FF4263' : '#800000'}}>
+                  F
+                </Text>
+                irst{' '}
+                <Text style={{color: isDarkMode ? '#FF4263' : '#800000'}}>
+                  A
+                </Text>
+                id
+              </Text>
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => setMode('doctor')}>
+              <Text
+                style={{
+                  color: isDarkMode ? 'white' : 'black',
+                  borderBottomColor: isDarkMode
+                    ? mode == 'doctor'
+                      ? '#FF4263'
+                      : 'transparent'
+                    : mode == 'doctor'
+                    ? '#800000'
+                    : 'transparent',
+                  borderBottomWidth: 3,
+                  paddingBottom: 1,
+                  opacity: mode == 'doctor' ? 1 : 0.5,
+                }}
+                className="text-[17px] font-bold">
+                <Text style={{color: isDarkMode ? '#FF4263' : '#800000'}}>
+                  D
+                </Text>
+                octors
+              </Text>
             </TouchableOpacity>
           </View>
+          {mode == 'aid' ? (
+            <View
+              className="flex h-[55px] rounded-sm flex-row items-center"
+              style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
+              <TextInput
+                className="text-[12px] px-3 text-lg  w-[88%]"
+                placeholder="What's your emergency?"
+                placeholderTextColor={'#875353'}
+                value={query}
+                onChangeText={text => setQuery(text)}
+                style={{color: isDarkMode ? '#ffffff' : '#000000'}}
+              />
+              <TouchableOpacity onPress={handleClick}>
+                <Icon
+                  name="search"
+                  size={30}
+                  color={isDarkMode ? '#FF4263' : '#800000'}
+                />
+              </TouchableOpacity>
+            </View>
+          ) : (
+            <View
+              className="flex h-[55px] rounded-sm flex-row items-center"
+              style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
+              <TextInput
+                className="text-[12px] px-3 text-lg  w-[88%]"
+                placeholder="What doctor do you want?"
+                placeholderTextColor={'#875353'}
+                value={query}
+                onChangeText={text => setQuery(text)}
+                style={{color: isDarkMode ? '#ffffff' : '#000000'}}
+              />
+              <TouchableOpacity onPress={handleClickDoctor}>
+                <Icon
+                  name="search"
+                  size={30}
+                  color={isDarkMode ? '#FF4263' : '#800000'}
+                />
+              </TouchableOpacity>
+            </View>
+          )}
 
           <View className="mt-3 mb-2 text-[12px]">
             <Text style={{color: isDarkMode ? 'white' : 'black'}}>
@@ -800,7 +906,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 h-32 mb-5 mr-5 rounded-sm"
+              className="flex items-center justify-center w-40 mb-4 mr-5 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
@@ -814,7 +920,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 h-32 rounded-sm"
+              className="flex items-center justify-center w-40 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
@@ -828,7 +934,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 h-32 mr-5 rounded-sm"
+              className="flex items-center justify-center w-40 mr-5 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
@@ -842,7 +948,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 h-32 rounded-sm"
+              className="flex items-center justify-center w-40 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
