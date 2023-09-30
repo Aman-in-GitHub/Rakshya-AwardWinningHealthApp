@@ -1,0 +1,1003 @@
+[
+  {
+    "name": "Vision Pharmacy",
+    "phoneNumber": "980-6428405",
+    "latitude": "27.675187500000007",
+    "longitude": "85.30556250000001",
+    "time": "8 a.m.-9 p.m."
+  },
+  {
+    "name": "Ram Pharmacy",
+    "phoneNumber": "1-5005112",
+    "latitude": "27.6748125",
+    "longitude": "85.31968749999999",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Alka Hospital Pharmacy",
+    "phoneNumber": "1-5452894",
+    "latitude": "27.674687500000005",
+    "longitude": "85.31481250000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Pabitra pharma",
+    "phoneNumber": "1-5425142",
+    "latitude": "27.675562500000012",
+    "longitude": "85.31568750000002",
+    "time": "7:30 a.m.-9 p.m."
+  },
+  {
+    "name": "Lucky Pharmacy And Clinic",
+    "phoneNumber": "985-1206325",
+    "latitude": "27.659687500000004",
+    "longitude": "85.33131250000002",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Innovia Pharmacy",
+    "phoneNumber": "1-5553460",
+    "latitude": "27.6591875",
+    "longitude": "85.3241875",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Patan Dhoka Pharmacy",
+    "phoneNumber": "984-9266494",
+    "latitude": "27.678812500000006",
+    "longitude": "85.32068750000002",
+    "time": "6:30 a.m.-10 p.m."
+  },
+  {
+    "name": "Tesla Pharmacy - Bhaisepati",
+    "phoneNumber": "985-1316044",
+    "latitude": "27.653562500000007",
+    "longitude": "85.3044375",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Happy Pills Pharmacy",
+    "phoneNumber": "1-5554166",
+    "latitude": "27.666312500000004",
+    "longitude": "85.32106249999998",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "Siddhi Medical Hall",
+    "phoneNumber": "1-5533481",
+    "latitude": "27.675437500000015",
+    "longitude": "85.3239375",
+    "time": "7 a.m.-4 p.m."
+  },
+  {
+    "name": "Supriya pharmacy",
+    "phoneNumber": "985-1186339",
+    "latitude": "27.672812499999992",
+    "longitude": "85.32831249999998",
+    "time": "6:30 a.m.-10 p.m."
+  },
+  {
+    "name": "Austin Pharmacy",
+    "phoneNumber": "984-1362663",
+    "latitude": "27.67343749999999",
+    "longitude": "85.3116875",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Lifecare Pharmacy",
+    "phoneNumber": "1-5905770",
+    "latitude": "27.690312500000005",
+    "longitude": "85.30618750000002",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Health Care Pharmacy",
+    "phoneNumber": "1-5523777",
+    "latitude": "27.668687500000004",
+    "longitude": "85.33443750000004",
+    "time": "7:30 a.m.-7:30 p.m."
+  },
+  {
+    "name": "Nuree Pharma",
+    "phoneNumber": "986-9363332",
+    "latitude": "27.641687500000003",
+    "longitude": "85.3278125",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Gurju Ayurvedic Pharma",
+    "phoneNumber": "985-1057833",
+    "latitude": "27.66731250000001",
+    "longitude": "85.32193749999999",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Gaurang Pharmacy",
+    "phoneNumber": "984-5112001",
+    "latitude": "27.678562500000012",
+    "longitude": "85.30956250000003",
+    "time": "7:30 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Medi-Zone Pharmacy",
+    "phoneNumber": "1-5542113",
+    "latitude": "27.666937500000003",
+    "longitude": "85.32456250000001",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Orchid pharmacy",
+    "phoneNumber": "984-1030134",
+    "latitude": "27.666812500000006",
+    "longitude": "85.31356249999999",
+    "time": "8 a.m.-7:30 p.m."
+  },
+  {
+    "name": "Indira Pharmacy",
+    "phoneNumber": "1-5006344",
+    "latitude": "27.671562499999993",
+    "longitude": "85.33881250000007",
+    "time": "6:30 a.m.-9 p.m."
+  },
+  {
+    "name": "Vedanta Ayurvedic Pharma",
+    "phoneNumber": "984-1793348",
+    "latitude": "27.6814375",
+    "longitude": "85.31743749999998",
+    "time": "7:30 a.m.-8 p.m."
+  },
+  {
+    "name": "Sarita Medical Hall",
+    "phoneNumber": "984-2874336",
+    "latitude": "27.671687500000004",
+    "longitude": "85.33881250000007",
+    "time": "6 a.m.-9 p.m."
+  },
+  {
+    "name": "Suchita Pharmacy",
+    "phoneNumber": "984-9034839",
+    "latitude": "27.651562499999997",
+    "longitude": "85.31718749999999",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Dhrubatara Medical Hall",
+    "phoneNumber": "984-1485382",
+    "latitude": "27.662062500000005",
+    "longitude": "85.31568750000002",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Carepoint Pharmacy",
+    "phoneNumber": "980-8912434",
+    "latitude": "27.677562500000008",
+    "longitude": "85.32268750000003",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "V.S Pharma",
+    "phoneNumber": "984-3264877",
+    "latitude": "27.669812500000006",
+    "longitude": "85.31043750000003",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Pharmapoint Heart Pharmacy",
+    "phoneNumber": "984-9201623",
+    "latitude": "27.677062500000005",
+    "longitude": "85.30981250000002",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Ezee Pharma",
+    "phoneNumber": "1-5202572",
+    "latitude": "27.66368750000001",
+    "longitude": "85.33556250000004",
+    "time": "6 a.m.-10 p.m."
+  },
+  {
+    "name": "Manushil Medical Hall",
+    "phoneNumber": "1-5520922",
+    "latitude": "27.665687500000004",
+    "longitude": "85.30543750000004",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Prayag Ayurved Pharma",
+    "phoneNumber": "984-1526894",
+    "latitude": "27.669062499999995",
+    "longitude": "85.32381250000003",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Karmacharya Pharmacy",
+    "phoneNumber": "1-4462263",
+    "latitude": "27.69556250000001",
+    "longitude": "85.35331250000002",
+    "time": "6:30 a.m.-11 p.m."
+  },
+  {
+    "name": "MediHolic Pharmacy",
+    "phoneNumber": "984-8154034",
+    "latitude": "27.7096875",
+    "longitude": "85.28031249999998",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Mirus Pharmacy",
+    "phoneNumber": "1-4436527",
+    "latitude": "27.726062500000012",
+    "longitude": "85.32293750000002",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Tesla Pharmacy",
+    "phoneNumber": "1-4534871",
+    "latitude": "27.72668750000001",
+    "longitude": "85.33081249999998",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "ATM Pharmacy",
+    "phoneNumber": "986-1665986",
+    "latitude": "27.677562500000008",
+    "longitude": "85.34281250000004",
+    "time": "9 a.m.-7 p.m."
+  },
+  {
+    "name": "Safeway Thamel Pharmacy",
+    "phoneNumber": "1-4700537",
+    "latitude": "27.718062500000002",
+    "longitude": "85.3096875",
+    "time": "7 a.m.-10:30 p.m."
+  },
+  {
+    "name": "Regards Medical Hall",
+    "phoneNumber": "1-4384456",
+    "latitude": "27.73739549760217",
+    "longitude": "85.32620819341055",
+    "time": "6 a.m.-9 p.m."
+  },
+  {
+    "name": "Mayrush Pharmacy",
+    "phoneNumber": "1-5713545",
+    "latitude": "27.702187500000008",
+    "longitude": "85.31256250000001",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Shree Ram Pharma",
+    "phoneNumber": "1-4424917",
+    "latitude": "27.734631239733467",
+    "longitude": "85.33086042208977",
+    "time": "6 a.m.-10:30 p.m."
+  },
+  {
+    "name": "Annapurna Pharmacy",
+    "phoneNumber": "1-2091348",
+    "latitude": "27.695094593561805",
+    "longitude": "85.32134672208977",
+    "time": "6 a.m.-12 p.m"
+  },
+  {
+    "name": "Xeno Pharmacy",
+    "phoneNumber": "1-4415374",
+    "latitude": "27.725687500000006",
+    "longitude": "85.32306249999999",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "ACME Pharmacy",
+    "phoneNumber": "1-4413897",
+    "latitude": "27.7314375",
+    "longitude": "85.32906250000002",
+    "time": "6 a.m.-9 p.m."
+  },
+  {
+    "name": "Shakya Pharma",
+    "phoneNumber": "1-4701897",
+    "latitude": "27.717937500000005",
+    "longitude": "85.30993749999999",
+    "time": "7:30 a.m.-9:30 p.m."
+  },
+  {
+    "name": "Alright Pharmacy",
+    "phoneNumber": "984-8888320",
+    "latitude": "27.744312500000007",
+    "longitude": "85.34106250000002",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Global Pharmacy",
+    "phoneNumber": "1-4420099",
+    "latitude": "27.704158777782496",
+    "longitude": "85.33212513558203",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Ritika Pharmacy",
+    "phoneNumber": "1-4260792",
+    "latitude": "27.71168750000001",
+    "longitude": "85.30893750000001",
+    "time": "8 a.m.-10 p.m."
+  },
+  {
+    "name": "Prakash Pharmacia",
+    "phoneNumber": "1-4100166",
+    "latitude": "27.69606250000001",
+    "longitude": "85.30731250000002",
+    "time": "8 a.m.-9 p.m."
+  },
+  {
+    "name": "Sai Nanglo Pharmacy",
+    "phoneNumber": "1-4420507",
+    "latitude": "27.735545403935024",
+    "longitude": "85.33142726256658",
+    "time": "7 a.m.-10 p.m."
+  },
+  {
+    "name": "Triangle Pharmacy",
+    "phoneNumber": "1-4111913",
+    "latitude": "27.685937499999994",
+    "longitude": "85.34656250000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Lazimpat Pharmacy",
+    "phoneNumber": "984-1786809",
+    "latitude": "27.721284368734242",
+    "longitude": "85.31975986441796",
+    "time": "9 a.m.-8 p.m."
+  },
+  {
+    "name": "Daya Pharmacy",
+    "phoneNumber": "1-4475244",
+    "latitude": "27.690047002346784",
+    "longitude": "85.33550617791025",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "S.D Pharmacy",
+    "phoneNumber": "984-1317992",
+    "latitude": "27.697437500000007",
+    "longitude": "85.29643750000002",
+    "time": "9 a.m.-8 p.m."
+  },
+  {
+    "name": "3S Pharmacy",
+    "phoneNumber": "1-4373876",
+    "latitude": "27.739437499999994",
+    "longitude": "85.33843750000005",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Sarbamani Pharmacy",
+    "phoneNumber": "986-1613961",
+    "latitude": "27.734812500000004",
+    "longitude": "85.33106249999997",
+    "time": "7:30 a.m.-9:30 p.m."
+  },
+  {
+    "name": "Med Express Nepal",
+    "phoneNumber": "985-1275553",
+    "latitude": "27.714437500000003",
+    "longitude": "85.29406250000005",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Asian Medi Mart",
+    "phoneNumber": "985-1137683",
+    "latitude": "27.743812500000004",
+    "longitude": "85.32993749999997",
+    "time": "6:30 a.m.-9 p.m."
+  },
+  {
+    "name": "Pharmacies Mankala Aurwedik",
+    "phoneNumber": "1-4223899",
+    "latitude": "27.70794736546261",
+    "longitude": "85.31170219510521",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "LUMANTI PHARMA",
+    "phoneNumber": "986-3534647",
+    "latitude": "27.7199375",
+    "longitude": "85.30918750000001",
+    "time": "7-10a.m.-6 p.m."
+  },
+  {
+    "name": "Bees Pharmacy",
+    "phoneNumber": "985-1104481",
+    "latitude": "27.692983897629087",
+    "longitude": "85.3365789662693",
+    "time": "7 a.m.-10 p.m."
+  },
+  {
+    "name": "Active Pharmacy",
+    "phoneNumber": "1-4478396",
+    "latitude": "27.697866587075733",
+    "longitude": "85.35125226626931",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Chain Pharmacy",
+    "phoneNumber": "1-4954773",
+    "latitude": "27.69017580306427",
+    "longitude": "85.3286416490743",
+    "time": "6:30 a.m.-9 p.m."
+  },
+  {
+    "name": "Kathmandu Life Care Pharmacy",
+    "phoneNumber": "984-9111568",
+    "latitude": "27.698437499999997",
+    "longitude": "85.3080625",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Megan Pharmacy",
+    "phoneNumber": "1-5328589",
+    "latitude": "27.704562499999994",
+    "longitude": "85.31268750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Om Pharmacy",
+    "phoneNumber": "1-4244658",
+    "latitude": "27.703443589472514",
+    "longitude": "85.31269023558205",
+    "time": "8 a.m.-9 p.m."
+  },
+  {
+    "name": "CHAIN PHARMACY",
+    "phoneNumber": "1-5904811",
+    "latitude": "27.6899375",
+    "longitude": "85.3286875",
+    "time": "7:30 a.m.-7 p.m."
+  },
+  {
+    "name": "Keystone Pharmacy",
+    "phoneNumber": "984-3731986",
+    "latitude": "27.7218125",
+    "longitude": "85.32018750000003",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "New Nepal Pharmacy",
+    "phoneNumber": "984-1711036",
+    "latitude": "27.722552861987946",
+    "longitude": "85.3127252509257",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Trekkers Pharmacy",
+    "phoneNumber": "981-0135035",
+    "latitude": "27.717345552567526",
+    "longitude": "85.31134624615738",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Tedi Pharmacy",
+    "phoneNumber": "984-0170799",
+    "latitude": "27.682812499999997",
+    "longitude": "85.34343750000005",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Paaru Siddhi Binayak Pharmacy",
+    "phoneNumber": "1-4533008",
+    "latitude": "27.720187499999994",
+    "longitude": "85.33131250000002",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Svanigaḥ Pharmacy",
+    "phoneNumber": "1-4253383",
+    "latitude": "27.706812499999998",
+    "longitude": "85.30993749999999",
+    "time": "7:30 a.m.-9:30 p.m."
+  },
+  {
+    "name": "Stupa Pharmacy",
+    "phoneNumber": "984-1416056",
+    "latitude": "27.72054403408473",
+    "longitude": "85.36592201547012",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "श्रीसम फार्मेसी",
+    "phoneNumber": "980-4818191",
+    "latitude": "27.746312500000002",
+    "longitude": "85.34293750000006",
+    "time": "5 a.m.-10 p.m."
+  },
+  {
+    "name": "MAYA DEVI PHARMA",
+    "phoneNumber": "985-1133624",
+    "latitude": "27.69694699128884",
+    "longitude": "85.29486372287553",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Medfirst Healthcare",
+    "phoneNumber": "980-1917796",
+    "latitude": "27.721437499999993",
+    "longitude": "85.33131250000002",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Bipashana pharmacy",
+    "phoneNumber": "1-4410197",
+    "latitude": "27.73532678154701",
+    "longitude": "85.33225156520375",
+    "time": "6 a.m.-2 p.m."
+  },
+  {
+    "name": "Aroma Pharmaceutical",
+    "phoneNumber": "1-5351185",
+    "latitude": "27.708812499999993",
+    "longitude": "85.30768750000004",
+    "time": "10 a.m.-6 p.m."
+  },
+  {
+    "name": "Citizens Pharmacy",
+    "phoneNumber": "1-4362101",
+    "latitude": "27.72653260834343",
+    "longitude": "85.30597978848557",
+    "time": "8 a.m.-9 p.m."
+  },
+  {
+    "name": "K.D.R Pharmacy",
+    "phoneNumber": "1-4281173",
+    "latitude": "27.708094153647025",
+    "longitude": "85.30172471732148",
+    "time": "8 a.m.-9 p.m."
+  },
+  {
+    "name": "Omkishan Pharmacy, Ravi Bhawan",
+    "phoneNumber": "1-4275119",
+    "latitude": "27.695549493478115",
+    "longitude": "85.29269539033695",
+    "time": "6 a.m.-10 p.m."
+  },
+  {
+    "name": "Harisiddhi Medical Hall",
+    "phoneNumber": "986-2443839",
+    "latitude": "27.61756249999999",
+    "longitude": "85.55418750000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Brihat Medico Pharma",
+    "phoneNumber": "986-0145725",
+    "latitude": "27.613687499999997",
+    "longitude": "85.53031249999998",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "AARADHAY PHARMACY",
+    "phoneNumber": "984-1338473",
+    "latitude": "27.63018749999999",
+    "longitude": "85.52543750000001",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Chandi Pharma",
+    "phoneNumber": "11-661885",
+    "latitude": "27.634062499999985",
+    "longitude": "85.52756249999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "SAHAJ PHARMACY",
+    "phoneNumber": "11-665540",
+    "latitude": "27.634062499999985",
+    "longitude": "85.5231875",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Bishes Pharmacy",
+    "phoneNumber": "984-3425075",
+    "latitude": "27.6346875",
+    "longitude": "85.52781249999998",
+    "time": "6:30 a.m.-8 p.m."
+  },
+  {
+    "name": "Samjhana Homeo Pharmacy",
+    "phoneNumber": "984-1321604",
+    "latitude": "27.630062499999994",
+    "longitude": "85.5248125",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Chandeshwori Medical Hall",
+    "phoneNumber": "986-0653661",
+    "latitude": "27.63018749999999",
+    "longitude": "85.52256249999999",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "Next Generation Pharmacy",
+    "phoneNumber": "976-2448559",
+    "latitude": "27.63081249999999",
+    "longitude": "85.51831249999998",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Banepa Medi Store",
+    "phoneNumber": "11-661636 ext. 660319",
+    "latitude": "27.629687500000003",
+    "longitude": "85.5259375",
+    "time": "10 a.m.-5 p.m."
+  },
+  {
+    "name": "Nawadurga Agrovet",
+    "phoneNumber": "985-1143368",
+    "latitude": "27.631187499999996",
+    "longitude": "85.51993749999997",
+    "time": "7:15 a.m.-6 p.m."
+  },
+  {
+    "name": "Himalaya Veterinary Panauti",
+    "phoneNumber": "11-441277",
+    "latitude": "27.58693749999999",
+    "longitude": "85.51406250000002",
+    "time": "7 a.m.-6:30 p.m."
+  },
+  {
+    "name": "Nandikeshwor Pharmacy",
+    "phoneNumber": "984-3558202",
+    "latitude": "27.661562500000002",
+    "longitude": "85.4383125",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Padma Pharmacy",
+    "phoneNumber": "1-4414793",
+    "latitude": "27.713346750382218",
+    "longitude": "85.32699090674613",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Generico Pharmacy",
+    "phoneNumber": "961-4455555",
+    "latitude": "27.712437500000007",
+    "longitude": "85.3300625",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Basu Pharmacy",
+    "phoneNumber": "1-4422421",
+    "latitude": "27.735160404773804",
+    "longitude": "85.33214770568055",
+    "time": "6 a.m.-10 p.m."
+  },
+  {
+    "name": "Omtara Pharmacy",
+    "phoneNumber": "1-4566204",
+    "latitude": "27.721437499999993",
+    "longitude": "85.34518750000007",
+    "time": "6:30 a.m.-10 p.m."
+  },
+  {
+    "name": "Subrat Pharmacy",
+    "phoneNumber": "984-1505095",
+    "latitude": "27.670187499999997",
+    "longitude": "85.35056250000002",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Peoples Pharmacy",
+    "phoneNumber": "1-4262027",
+    "latitude": "27.693937500000004",
+    "longitude": "85.31506250000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "24seven Health & Beauty",
+    "phoneNumber": "1-4720313",
+    "latitude": "27.739437499999994",
+    "longitude": "85.33743750000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "MEDICO Enterprises",
+    "phoneNumber": "1-4222090",
+    "latitude": "27.712216476400748",
+    "longitude": "85.31852943636783",
+    "time": "11 a.m.-5 p.m."
+  },
+  {
+    "name": "Mayusha Pharmacy",
+    "phoneNumber": "1-4438682",
+    "latitude": "27.725070941359636",
+    "longitude": "85.33113344907431",
+    "time": "9 a.m.-6 p.m."
+  },
+  {
+    "name": "Hanuman Pharma",
+    "phoneNumber": "985-1111777",
+    "latitude": "27.706042478306195",
+    "longitude": "85.31360990674614",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Meru Pharmacy",
+    "phoneNumber": "985-1134843",
+    "latitude": "27.681510618069122",
+    "longitude": "85.33271721547014",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Mohanee Pharmacy",
+    "phoneNumber": "984-1836719",
+    "latitude": "27.712201969189014",
+    "longitude": "85.29078581732146",
+    "time": "7:30 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Charchit Pharmacy",
+    "phoneNumber": "1-4592257",
+    "latitude": "27.69556250000001",
+    "longitude": "85.35343750000004",
+    "time": "7:30 a.m.-10:30 p.m."
+  },
+  {
+    "name": "Caterpillar My pharmacy",
+    "phoneNumber": "984-1683081",
+    "latitude": "27.73194543995253",
+    "longitude": "85.30921527976159",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Shuvalav Pharmacy",
+    "phoneNumber": "974-1459898",
+    "latitude": "27.706937499999995",
+    "longitude": "85.3228125",
+    "time": "8 a.m.-9:45 p.m."
+  },
+  {
+    "name": "Pisalyanda Pharmacy",
+    "phoneNumber": "985-1167155",
+    "latitude": "27.733507912028973",
+    "longitude": "85.31358916203381",
+    "time": "6:30 a.m.-9 p.m."
+  },
+  {
+    "name": "Rukmini Pharmacy",
+    "phoneNumber": "1-4444490",
+    "latitude": "27.708573453789086",
+    "longitude": "85.33568487684465",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Yetichem Medicine Distributors",
+    "phoneNumber": "1-4259356",
+    "latitude": "27.7001875",
+    "longitude": "85.31143750000001",
+    "time": "10 a.m.-5:30 p.m."
+  },
+  {
+    "name": "TRIMURTI PHARMACY MEDICINE",
+    "phoneNumber": "986-9858441",
+    "latitude": "27.67375",
+    "longitude": "85.43625",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Garudkunda Pharmacy",
+    "phoneNumber": "1-6616415",
+    "latitude": "27.674562499999993",
+    "longitude": "85.43731250000002",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Jhingu Wasa Pasa Pharmacy",
+    "phoneNumber": "980-8806341",
+    "latitude": "27.676062500000015",
+    "longitude": "85.43193749999995",
+    "time": "6 a.m.-10 p.m."
+  },
+  {
+    "name": "CAN PHARMACY",
+    "phoneNumber": "984-1849701",
+    "latitude": "27.6718125",
+    "longitude": "85.4380625",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "Easy Cure Medical Hall",
+    "phoneNumber": "986-3318841",
+    "latitude": "27.67618750000001",
+    "longitude": "85.43981250000002",
+    "time": "7:30 a.m.-9 p.m."
+  },
+  {
+    "name": "Kamalbinayak Polyclinic",
+    "phoneNumber": "1-5915875",
+    "latitude": "27.678812500000006",
+    "longitude": "85.44256250000001",
+    "time": "7 a.m.-10 p.m."
+  },
+  {
+    "name": "Bilash vet pharma",
+    "phoneNumber": "985-1015366",
+    "latitude": "27.668062500000005",
+    "longitude": "85.4369375",
+    "time": "6 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Navajeevan Pharmacy",
+    "phoneNumber": "984-3715494",
+    "latitude": "27.676937500000008",
+    "longitude": "85.39806250000004",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Pryns Health Care Group",
+    "phoneNumber": "974-9722751",
+    "latitude": "27.669062499999995",
+    "longitude": "85.41218749999996",
+    "time": "7 a.m.-10 p.m."
+  },
+  {
+    "name": "Cure Pharma Medical",
+    "phoneNumber": "1-5092667",
+    "latitude": "27.663562500000012",
+    "longitude": "85.42668749999996",
+    "time": "10 a.m.-5 p.m."
+  },
+  {
+    "name": "Better Care Pharmacy",
+    "phoneNumber": "1-5910515",
+    "latitude": "27.679687500000014",
+    "longitude": "85.40043750000001",
+    "time": "7 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Pragati pharmacy",
+    "phoneNumber": "984-1896487",
+    "latitude": "27.67743750000001",
+    "longitude": "85.39831250000003",
+    "time": "7:30 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Amrit Medical Hall",
+    "phoneNumber": "985-1181380",
+    "latitude": "27.6833125",
+    "longitude": "85.4079375",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Suryabinayak Medical Store",
+    "phoneNumber": "984-1206273",
+    "latitude": "27.664937500000008",
+    "longitude": "85.42543749999999",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Sayuj Pharmacy",
+    "phoneNumber": "984-9620400",
+    "latitude": "27.67806250000001",
+    "longitude": "85.38368750000006",
+    "time": "6 a.m.-9:30 p.m."
+  },
+  {
+    "name": "Nandikeshwor Pharmacy",
+    "phoneNumber": "984-3558202",
+    "latitude": "27.661562500000002",
+    "longitude": "85.4383125",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Manish Pharmacy",
+    "phoneNumber": "984-3933209",
+    "latitude": "27.6730625",
+    "longitude": "85.39043750000008",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Sewa Pharma ",
+    "phoneNumber": "985-1328575",
+    "latitude": "27.6730625",
+    "longitude": "85.38568750000007",
+    "time": "6:30 a.m.-9:30 p.m."
+  },
+  {
+    "name": "Surjan Pharmacy",
+    "phoneNumber": "984-9281997",
+    "latitude": "27.6730625",
+    "longitude": "85.38193749999999",
+    "time": "10 a.m.-8 p.m."
+  },
+  {
+    "name": "JK Medicare",
+    "phoneNumber": "099525256",
+    "latitude": "28.964937500000005",
+    "longitude": "80.18168749999995",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Lalit Medical Hall",
+    "phoneNumber": "9863504848",
+    "latitude": "28.957437499999997",
+    "longitude": "80.2263125",
+    "time": "6 a.m.-8 p.m."
+  },
+  {
+    "name": "Star Medicine Distributor",
+    "phoneNumber": "099523307",
+    "latitude": "28.965437500000007",
+    "longitude": "80.18156249999998",
+    "time": "8:30 a.m.-6:30 p.m."
+  },
+  {
+    "name": "Ram Medical Hall",
+    "phoneNumber": "9806448444",
+    "latitude": "28.6839375",
+    "longitude": "80.36268750000005",
+    "time": "8 a.m.-9 p.m."
+  },
+  {
+    "name": "Arya medical store",
+    "phoneNumber": "+91 99175 30802",
+    "latitude": "29.072312499999995",
+    "longitude": "80.11318750000004",
+    "time": "9 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Wellcare Pharmacy",
+    "phoneNumber": "9858753066",
+    "latitude": "28.964937500000005",
+    "longitude": "80.18431250000003",
+    "time": "6 a.m.-10 p.m."
+  },
+  {
+    "name": "Shyam Medical",
+    "phoneNumber": "984-5437613",
+    "latitude": "26.764812500000005",
+    "longitude": "85.2795625",
+    "time": "9 a.m.-8:30 p.m."
+  },
+  {
+    "name": "Laxmi Medical Hall",
+    "phoneNumber": "984-5059743",
+    "latitude": "26.952312500000005",
+    "longitude": "85.31768750000003",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Gurhanwa medical Hall",
+    "phoneNumber": "+91 85799 37365",
+    "latitude": "26.74243750000001",
+    "longitude": "85.22443749999996",
+    "time": "9 a.m.-8 p.m."
+  },
+  {
+    "name": "Jai Durge Medical Hall",
+    "phoneNumber": "985-4036413",
+    "latitude": "26.998312499999997",
+    "longitude": "85.4656875",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Shambhu medical",
+    "phoneNumber": "046-540465",
+    "latitude": "26.997437500000004",
+    "longitude": "85.46581249999997",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Dhoubhadel Dhoubhari Center",
+    "phoneNumber": "9851074486",
+    "latitude": "27.63222743792079",
+    "longitude": "85.52281322980535",
+    "time": "8 a.m.-6:30 p.m."
+  },
+  {
+    "name": "Janta Pharmacy",
+    "phoneNumber": "011661896",
+    "latitude": "27.631808258318404",
+    "longitude": "85.52364534317834",
+    "time": "8 a.m.-6 p.m."
+  }
+]

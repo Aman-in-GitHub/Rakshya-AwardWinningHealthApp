@@ -1,0 +1,933 @@
+[
+  {
+    "name": "B&B Hospital, Gwarko (Baidya & Banskota)",
+    "phoneNumber": "1-5970999",
+    "latitude": "27.664937500000008",
+    "longitude": "85.32931250000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Helios Hospital",
+    "phoneNumber": "1-5912170",
+    "latitude": "27.670812499999997",
+    "longitude": "85.3116875",
+    "time": "8:30 a.m.-5:30 p.m."
+  },
+  {
+    "name": "NIDAN HOSPITAL LTD",
+    "phoneNumber": "1-5431333",
+    "latitude": "27.678937500000004",
+    "longitude": "85.31581249999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Care & Cure Multispeciality Hospital",
+    "phoneNumber": "1-5709273",
+    "latitude": "27.653062500000004",
+    "longitude": "85.35293750000005",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Sumeru Hospital",
+    "phoneNumber": "1-5275377",
+    "latitude": "27.644687500000003",
+    "longitude": "85.32581249999998",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Patan Hospital",
+    "phoneNumber": "1-5522295",
+    "latitude": "27.6683125",
+    "longitude": "85.3205625",
+    "time": "8 a.m.-5 p.m."
+  },
+  {
+    "name": "Star Hospital",
+    "phoneNumber": "1-5450198",
+    "latitude": "27.681187500000007",
+    "longitude": "85.30281250000002",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Alka Hospital ",
+    "phoneNumber": "1-5970795",
+    "latitude": "27.674187500000002",
+    "longitude": "85.31518750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Sumeru City Hospital",
+    "phoneNumber": "1-5444444",
+    "latitude": "27.675937500000003",
+    "longitude": "85.31468749999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Sarvanga Swasthya Sadan Hospital",
+    "phoneNumber": "1-5524996",
+    "latitude": "27.685812499999997",
+    "longitude": "85.31631250000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Mental Hospital",
+    "phoneNumber": "1-5521333",
+    "latitude": "27.667937500000008",
+    "longitude": "85.32243749999998",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Alka Hospital 2 wing 2 Ekantakuna",
+    "phoneNumber": "1-5455555",
+    "latitude": "27.669937500000003",
+    "longitude": "85.30981250000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Tranquility Hospital and Research Centre",
+    "phoneNumber": "1-5544940",
+    "latitude": "27.651562499999997",
+    "longitude": "85.33018750000002",
+    "time": "12 a.m.-11:30 p.m."
+  },
+  {
+    "name": "Blood and Multispeciality Hospital and Research Center Private Hospital",
+    "phoneNumber": "1-5911100",
+    "latitude": "27.675437500000015",
+    "longitude": "85.31018750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Aadhya Neuro and Multispeciality Center",
+    "phoneNumber": "1-5915429",
+    "latitude": "27.667437500000005",
+    "longitude": "85.33256250000005",
+    "time": "8 a.m.-8 p.m."
+  },
+  {
+    "name": "Kopila",
+    "phoneNumber": "1-5542767",
+    "latitude": "27.67681250000001",
+    "longitude": "85.31718749999999",
+    "time": "9:30 a.m.-5:30 p.m."
+  },
+  {
+    "name": "KIST Medical College Teaching Hospital",
+    "phoneNumber": "1-5201496",
+    "latitude": "27.662937500000012",
+    "longitude": "85.33506250000005",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Lagankhel Tangal-12",
+    "phoneNumber": "984-1362189",
+    "latitude": "27.667937500000008",
+    "longitude": "85.32193749999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nepal Mediciti Hospital",
+    "phoneNumber": "1-4217766",
+    "latitude": "27.662312500000013",
+    "longitude": "85.30306250000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Medanta Ortho & Neuro Care Center",
+    "phoneNumber": "1-5448081",
+    "latitude": "27.6875625",
+    "longitude": "85.31606249999999",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Vayodha Hospitals",
+    "phoneNumber": "1-4286428",
+    "latitude": "27.684187500000007",
+    "longitude": "85.29843750000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "DIYAS HOSPITAL ",
+    "phoneNumber": "1-5004083",
+    "latitude": "27.670812499999997",
+    "longitude": "85.32118750000001",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Ananadaban Hospital",
+    "phoneNumber": "1-6218398",
+    "latitude": "27.576687500000006",
+    "longitude": "85.31568750000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Lalitpur Heart Clinic",
+    "phoneNumber": "1-5434226",
+    "latitude": "27.675437500000015",
+    "longitude": "85.31293750000003",
+    "time": "7-11 a.m., 3-7 p.m."
+  },
+  {
+    "name": "Pashupati Homoeopathic Hospital",
+    "phoneNumber": "1-5522092",
+    "latitude": "27.680687500000005",
+    "longitude": "85.31518750000004",
+    "time": "10 a.m.-3 p.m."
+  },
+  {
+    "name": "Lalitpur Physiotherapy Clinic",
+    "phoneNumber": "984-9805383",
+    "latitude": "27.680062500000005",
+    "longitude": "85.3264375",
+    "time": "1-6 p.m."
+  },
+  {
+    "name": "NEPAL CANCER CARE FOUNDATION",
+    "phoneNumber": "1-5525988",
+    "latitude": "27.660312500000003",
+    "longitude": "85.3200625",
+    "time": "8 a.m.-5 p.m."
+  },
+  {
+    "name": "HRL & Clinic",
+    "phoneNumber": "1-5440932",
+    "latitude": "27.666937500000003",
+    "longitude": "85.32456250000001",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "ERA INTERNATIONAL HOSPITAL ",
+    "phoneNumber": "1-4352447",
+    "latitude": "27.7193125",
+    "longitude": "85.30906250000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Norvic International Hospital",
+    "phoneNumber": "1-5970032",
+    "latitude": "27.6899375",
+    "longitude": "85.3191875",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Civil Service Hospital of Nepal",
+    "phoneNumber": "1-4793000",
+    "latitude": "27.68625",
+    "longitude": "85.33875000000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Bir Hospital",
+    "phoneNumber": "1-4221119",
+    "latitude": "27.704812500000003",
+    "longitude": "85.31368750000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Blue Cross Hospital",
+    "phoneNumber": "1-4262027",
+    "latitude": "27.69368750000001",
+    "longitude": "85.31518750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Alka Health Institute College",
+    "phoneNumber": "1-5428957",
+    "latitude": "27.676062500000015",
+    "longitude": "85.30993749999999",
+    "time": "10 a.m.-5 p.m."
+  },
+  {
+    "name": "Mero Hospital - heal at home",
+    "phoneNumber": "980-1819111",
+    "latitude": "27.686812500000002",
+    "longitude": "85.32793750000002",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Jyoti Hospital",
+    "phoneNumber": "1-4275543",
+    "latitude": "27.69856250000001",
+    "longitude": "85.2974375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "KDC Hospital",
+    "phoneNumber": "1-4985910",
+    "latitude": "27.736437499999994",
+    "longitude": "85.32381250000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Allin Dental Clinic",
+    "phoneNumber": "984-1252221",
+    "latitude": "27.654062499999995",
+    "longitude": "85.31943749999999",
+    "time": "3-8:30 p.m."
+  },
+  {
+    "name": "Ayush Hospital /आयुष हस्पिटल",
+    "phoneNumber": "1-4792138",
+    "latitude": "27.685937499999994",
+    "longitude": "85.33631250000008",
+    "time": "7 a.m.-6 p.m."
+  },
+  {
+    "name": "CIWEC Hospital ",
+    "phoneNumber": "1-4435232",
+    "latitude": "27.720437500000003",
+    "longitude": "85.31768750000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Heera Homeopathic Clinic & Pharmacy",
+    "phoneNumber": "984-1359066",
+    "latitude": "27.688312499999995",
+    "longitude": "85.31481250000002",
+    "time": "9 a.m.-7 p.m."
+  },
+  {
+    "name": "Sukraraj Tropical & Infectious Disease Hospital",
+    "phoneNumber": "1-5353396",
+    "latitude": "27.69556250000001",
+    "longitude": "85.30631250000005",
+    "time": "8 a.m.-3 p.m."
+  },
+  {
+    "name": "Venus Hospital",
+    "phoneNumber": "1-4475120",
+    "latitude": "27.697187500000013",
+    "longitude": "85.33768750000007",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Buddha MAI hospital",
+    "phoneNumber": "1-4104528",
+    "latitude": "27.697812499999998",
+    "longitude": "85.30381250000005",
+    "time": "7 a.m.-9:01 p.m."
+  },
+  {
+    "name": "Motherland Hospital",
+    "phoneNumber": "1-4992788",
+    "latitude": "27.689437499999997",
+    "longitude": "85.35981250000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Kathmandu Model Hospital",
+    "phoneNumber": "1-4240805",
+    "latitude": "27.7025625",
+    "longitude": "85.3200625",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nepal Eye Hospital.",
+    "phoneNumber": "1-5360813",
+    "latitude": "27.693187500000008",
+    "longitude": "85.31381250000004",
+    "time": "8:30 a.m.-1:30 p.m."
+  },
+  {
+    "name": "Grande International Hospital",
+    "phoneNumber": "1-5159267",
+    "latitude": "27.7529375",
+    "longitude": "85.32593750000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Harriet Benson Memorial Hospital",
+    "phoneNumber": "+91 5176 273 230",
+    "latitude": "24.69556250000001",
+    "longitude": "78.41256249999998",
+    "time": "8 a.m.-5:30 a.m."
+  },
+  {
+    "name": "Chirayu National Hospital & Medical Institute ",
+    "phoneNumber": "1-5905888",
+    "latitude": "27.741312500000006",
+    "longitude": "85.33406250000007",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Om Hospital & Research Centre ",
+    "phoneNumber": "1-4576225",
+    "latitude": "27.721437499999993",
+    "longitude": "85.34481250000005",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "T.U. Teaching Hospital",
+    "phoneNumber": "1-4412303",
+    "latitude": "27.73593749999999",
+    "longitude": "85.33031249999999",
+    "time": "9 a.m.-4 p.m."
+  },
+  {
+    "name": "Nepal-Bharat Maitri Hospital",
+    "phoneNumber": "1-5241288",
+    "latitude": "27.71168750000001",
+    "longitude": "85.34543750000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "HAMS Hospital",
+    "phoneNumber": "1-4377404",
+    "latitude": "27.733437499999994",
+    "longitude": "85.34631250000007",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "All Nepal Hospital",
+    "phoneNumber": "1-4389905",
+    "latitude": "27.73593749999999",
+    "longitude": "85.31768750000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Overseas Friendship International Hospital 华侨友好医院",
+    "phoneNumber": "1-4520630",
+    "latitude": "27.718312499999996",
+    "longitude": "85.3116875",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nepal Police Hospital",
+    "phoneNumber": "1-4412430",
+    "latitude": "27.731187500000004",
+    "longitude": "85.32331249999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Samata Hospital",
+    "phoneNumber": "1-4114063",
+    "latitude": "27.716562499999995",
+    "longitude": "85.35731250000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Silverline Hospital",
+    "phoneNumber": "1-4366301",
+    "latitude": "27.7283125",
+    "longitude": "85.30368750000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "MEDICARE HOSPITAL",
+    "phoneNumber": "1-4467067",
+    "latitude": "27.718312499999996",
+    "longitude": "85.34631250000007",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "OM Saibaba Memorial Hospital",
+    "phoneNumber": "1-4881603",
+    "latitude": "27.72331249999999",
+    "longitude": "85.29381250000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Helping Hands Community Hospital",
+    "phoneNumber": "1-4596807",
+    "latitude": "27.7199375",
+    "longitude": "85.34581250000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Himal hospital",
+    "phoneNumber": "1-4536348",
+    "latitude": "27.71056250000001",
+    "longitude": "85.3284375",
+    "time": "9 a.m.-6 p.m."
+  },
+  {
+    "name": "Ishan Children & Women's Hospital",
+    "phoneNumber": "1-4959560",
+    "latitude": "27.74481250000001",
+    "longitude": "85.33281250000005",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Shreedhi International Hospital",
+    "phoneNumber": "1-4001785",
+    "latitude": "27.725437500000012",
+    "longitude": "85.3236875",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Annapurna Neuro Hospital",
+    "phoneNumber": "1-5327886",
+    "latitude": "27.694812500000012",
+    "longitude": "85.3214375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Kathmandu ENT Hospital",
+    "phoneNumber": "1-5326730",
+    "latitude": "27.7036875",
+    "longitude": "85.31831249999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "International Quality Health Care Centre",
+    "phoneNumber": "1-4527887",
+    "latitude": "27.7314375",
+    "longitude": "85.32918749999999",
+    "time": "9 a.m.-5 p.m."
+  },
+  {
+    "name": "Greencity Hospital",
+    "phoneNumber": "1-4952248",
+    "latitude": "27.737187500000005",
+    "longitude": "85.32293750000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Shahid Gangalal National Heart Centre",
+    "phoneNumber": "1-4371322",
+    "latitude": "27.74543750000001",
+    "longitude": "85.34406250000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Stupa Community Hospital",
+    "phoneNumber": "1-4916372",
+    "latitude": "27.720187499999994",
+    "longitude": "85.35131250000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "International Friendship Children's Hospital",
+    "phoneNumber": "1-4516838",
+    "latitude": "27.731187500000004",
+    "longitude": "85.3264375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "National Cardiac Centre",
+    "phoneNumber": "1-5907144",
+    "latitude": "27.7403125",
+    "longitude": "85.33193749999998",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Wellness Hospital",
+    "phoneNumber": "1-4017787",
+    "latitude": "27.742062500000003",
+    "longitude": "85.33856250000002",
+    "time": "7 a.m.-7:30 p.m."
+  },
+  {
+    "name": "Khangri International Hospital",
+    "phoneNumber": "1-4917803",
+    "latitude": "27.7205625",
+    "longitude": "85.37018750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nature Care Hospital",
+    "phoneNumber": "1-4795708",
+    "latitude": "27.6886875",
+    "longitude": "85.33481250000006",
+    "time": "7:30 a.m.-5 p.m."
+  },
+  {
+    "name": "Tilganga Institute of Ophthalmology",
+    "phoneNumber": "1-5970048",
+    "latitude": "27.7055625",
+    "longitude": "85.35043750000006",
+    "time": "8 a.m.-6 p.m."
+  },
+  {
+    "name": "Vinayak Hospital & Maternity Home",
+    "phoneNumber": "1-4983152",
+    "latitude": "27.735187499999995",
+    "longitude": "85.3130625",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Ojus Ayurveda Hospital & Research Centre ",
+    "phoneNumber": "1-4352075",
+    "latitude": "27.733562500000005",
+    "longitude": "85.31818750000002",
+    "time": "7 a.m.-5 p.m."
+  },
+  {
+    "name": "Omni Care Hospital ",
+    "phoneNumber": "1-4466502",
+    "latitude": "27.703312499999996",
+    "longitude": "85.34081250000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Friendship community hospital",
+    "phoneNumber": "1-4540201",
+    "latitude": "27.726937500000005",
+    "longitude": "85.34506250000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Manmohan Memorial Medical College and Teaching Hospital",
+    "phoneNumber": "1-5247314",
+    "latitude": "27.713812500000003",
+    "longitude": "85.28168749999998",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Capital Medical Center .",
+    "phoneNumber": "1-4964049",
+    "latitude": "27.730562500000005",
+    "longitude": "85.3164375",
+    "time": "9 a.m.-5:30 AM"
+  },
+  {
+    "name": "Shankarapur Hospital",
+    "phoneNumber": "1-4911032",
+    "latitude": "27.721437499999993",
+    "longitude": "85.37843750000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Holistic Hospital",
+    "phoneNumber": "1-4115830",
+    "latitude": "27.689187500000003",
+    "longitude": "85.34181250000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Clinic Health Care Centre",
+    "phoneNumber": "985-1248405",
+    "latitude": "27.72668750000001",
+    "longitude": "85.3049375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Bhaktapur Hospital",
+    "phoneNumber": "1-6610798",
+    "latitude": "27.672062499999996",
+    "longitude": "85.42218749999995",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Siddhi Memorial Women and Children Hospital",
+    "phoneNumber": "1-6612945",
+    "latitude": "27.668187500000002",
+    "longitude": "85.43268750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Dr. Iwamura Memorial Hospital (DRIM HOSPITAL)",
+    "phoneNumber": "1-6612705",
+    "latitude": "27.6724375",
+    "longitude": "85.4118125",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "KMC Hospital",
+    "phoneNumber": "1-6618007",
+    "latitude": "27.684187500000007",
+    "longitude": "85.41106249999996",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nepal Skin Bhaktapur",
+    "phoneNumber": "1-6619425",
+    "latitude": "27.670937499999994",
+    "longitude": "85.40981249999999",
+    "time": "8 a.m.-6 p.m."
+  },
+  {
+    "name": "Human Organ Transplant Centre (Shahid Dharma Bhakta Hospital)",
+    "phoneNumber": "1-6614709",
+    "latitude": "27.6724375",
+    "longitude": "85.42181249999999",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Clinic One Bhaktapur",
+    "phoneNumber": "1-6617401",
+    "latitude": "27.66718750000001",
+    "longitude": "85.42593749999997",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "Dhulikhel Hospital, ICU",
+    "phoneNumber": "11-490497",
+    "latitude": "27.616812499999995",
+    "longitude": "85.54793750000005",
+    "time": "8 a.m.-6 p.m."
+  },
+  {
+    "name": "Dhulikhel Hospital Gynaecology & Obstetrics",
+    "phoneNumber": "986-8202588",
+    "latitude": "27.616812499999995",
+    "longitude": "85.54543750000005",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Banepa Hospital",
+    "phoneNumber": "1-1664299",
+    "latitude": "27.633686944197915",
+    "longitude": "85.51844221621162",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Sumaya Health Centre",
+    "phoneNumber": "985-1178805",
+    "latitude": "27.6976875",
+    "longitude": "85.38068750000002",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Kathmandu Cancer Center",
+    "phoneNumber": "1-5091629",
+    "latitude": "27.6694375",
+    "longitude": "85.4659375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nepal Orthopaedic Hospital",
+    "phoneNumber": "1-4911725",
+    "latitude": "27.720187499999994",
+    "longitude": "85.38118750000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Karuna Hospital",
+    "phoneNumber": "1-5128201",
+    "latitude": "27.751437499999994",
+    "longitude": "85.3624375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nepal Skin Hospital",
+    "phoneNumber": "1-5905344",
+    "latitude": "27.689437499999997",
+    "longitude": "85.3298125",
+    "time": "9 a.m.-6 p.m."
+  },
+  {
+    "name": "Healthy Heart Clinic",
+    "phoneNumber": "1-5639118",
+    "latitude": "27.674437499999996",
+    "longitude": "85.37206250000003",
+    "time": "7 a.m.-7 p.m."
+  },
+  {
+    "name": "DI Skin Hospital",
+    "phoneNumber": "1-4721900",
+    "latitude": "27.7500625",
+    "longitude": "85.34506250000004",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "Radhe Radhe Optical and Eye Care Center",
+    "phoneNumber": "984-9696666",
+    "latitude": "27.677062500000005",
+    "longitude": "85.39806250000004",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Arogin Health Care",
+    "phoneNumber": "1-4523423",
+    "latitude": "27.721312499999996",
+    "longitude": "85.33531250000004",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "Hit Polyclinic & Diagnostic Center",
+    "phoneNumber": "1-6632125",
+    "latitude": "27.682812499999997",
+    "longitude": "85.38818750000007",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Kantipur Hospital",
+    "phoneNumber": "1-4111627",
+    "latitude": "27.68559935355731",
+    "longitude": "85.3447984993914",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Satya Sai Hospital",
+    "phoneNumber": "1-1661574",
+    "latitude": "27.629464385306598",
+    "longitude": "85.52843261252093",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "HRDC",
+    "phoneNumber": "1-1661666",
+    "latitude": "27.628855942351038",
+    "longitude": "85.51116997735424",
+    "time": "10 a.m.-5 p.m."
+  },
+  {
+    "name": "Scheer Memorial Adventist Hospital",
+    "phoneNumber": "1-1661111",
+    "latitude": "27.633420694065446",
+    "longitude": "85.52732170000786",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "कृष्ण प्रसाद अस्पताल",
+    "phoneNumber": "1-1664332",
+    "latitude": "27.629640156967053",
+    "longitude": "85.52376632132568",
+    "time": "7:15 a.m.-7 p.m."
+  },
+  {
+    "name": "Mantra Hospital",
+    "phoneNumber": "99-520548",
+    "latitude": "28.970687499999997",
+    "longitude": "80.18518750000004",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "T & C Hospital Pvt. Ltd.",
+    "phoneNumber": "99-540244",
+    "latitude": "28.901812500000005",
+    "longitude": "80.34718750000002",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Farwest Clinic And Pulse Pharmacy",
+    "phoneNumber": "984-5985447",
+    "latitude": "28.965437500000007",
+    "longitude": "80.18031249999996",
+    "time": "6 a.m.-8 p.m."
+  },
+  {
+    "name": "Raj Devi Dental Lab & Clinic",
+    "phoneNumber": "980-6427413",
+    "latitude": "28.9663125",
+    "longitude": "80.18168749999995",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Bani Hospital pvt.ltd",
+    "phoneNumber": "99-417044",
+    "latitude": "28.866187499999995",
+    "longitude": "80.41718749999995",
+    "time": "8 a.m.-7 p.m."
+  },
+  {
+    "name": "सी पी अस्पताल निजी लिमिटेड",
+    "phoneNumber": "91-410102",
+    "latitude": "28.715312499999996",
+    "longitude": "80.5691875",
+    "time": "12 a.m.-12 p.m."
+  },
+  {
+    "name": "Nisarga Hospital",
+    "phoneNumber": "91-527000",
+    "latitude": "28.708062499999997",
+    "longitude": "80.58681250000006",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Bharosha Care",
+    "phoneNumber": "99-526231",
+    "latitude": "28.9873125",
+    "longitude": "80.1651875",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Dhangadi Sanjeevani Hospital",
+    "phoneNumber": "980-1753007",
+    "latitude": "28.7091875",
+    "longitude": "80.58468750000003",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Anand Polyclinic",
+    "phoneNumber": "985-8750774",
+    "latitude": "28.965312499999996",
+    "longitude": "80.18093749999997",
+    "time": "7 a.m.-8 p.m."
+  },
+  {
+    "name": "Bharosa Care",
+    "phoneNumber": "99-526231",
+    "latitude": "28.972562499999995",
+    "longitude": "80.18031249999996",
+    "time": "7 a.m.-9 p.m."
+  },
+  {
+    "name": "Parshuram Hospital",
+    "phoneNumber": "96-411096",
+    "latitude": "29.129687500000003",
+    "longitude": "80.34993750000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Jamuna Memorial Hospital",
+    "phoneNumber": "+91 80571 07960",
+    "latitude": "28.916187500000007",
+    "longitude": "79.96531249999998",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Shri HimalayaGuru Ayurveda Hospital",
+    "phoneNumber": "+91 80067 18858",
+    "latitude": "29.076812500000003",
+    "longitude": "80.1074375",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Saurabh Hospital",
+    "phoneNumber": "+91 95575 40098",
+    "latitude": "28.923312499999994",
+    "longitude": "79.9754375",
+    "time": "9 a.m.-6 p.m."
+  },
+  {
+    "name": "Om Hospital Khatima",
+    "phoneNumber": "+91 63990 79025",
+    "latitude": "28.923937499999994",
+    "longitude": "79.97481249999998",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Nanak Hospital",
+    "phoneNumber": "+91 94107 17435",
+    "latitude": "28.994312500000007",
+    "longitude": "80.0716875",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Mahakali Provincial Hospital",
+    "phoneNumber": "091521393",
+    "latitude": "28.963973112462316",
+    "longitude": "80.18479222432977",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Gaur Central Hospital",
+    "phoneNumber": "55-521597",
+    "latitude": "26.760937499999997",
+    "longitude": "85.27806249999998",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "Rautahat Grande Hospital",
+    "phoneNumber": "55-565146",
+    "latitude": "26.94306250000001",
+    "longitude": "85.30918750000001",
+    "time": "Open 24 hours"
+  },
+  {
+    "name": "NEPAL EYE CARE AND HOSPITAL",
+    "phoneNumber": "984-5869982",
+    "latitude": "26.763687500000003",
+    "longitude": "85.2731875",
+    "time": "9 a.m.-5 p.m."
+  },
+  {
+    "name": "Apollo Hospital",
+    "phoneNumber": "984-5474416",
+    "latitude": "26.764687500000008",
+    "longitude": "85.27606249999997",
+    "time": "5 a.m.-10 p.m."
+  }
+]
