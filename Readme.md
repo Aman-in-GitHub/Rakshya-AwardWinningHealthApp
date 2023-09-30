@@ -44,7 +44,7 @@ Welcome to the **Rakshya** – your lifeline in critical situations. This app is
 
 ## Installation
 
-In order to install "Rakshya" in your android device go to [Releases](https://github.com/Aman-in-GitHub/Rakshya-KUHackfest2023/releases) section of this repository and download the appropriate .apk file according to your device specifications.
+In order to install "Rakshya" in your android device go to [Releases](https://github.com/Aman-in-GitHub/Rakshya-KUHackfest2023/releases/tag/v0.0.0) section of this repository and download the appropriate .apk file according to your device specifications.
 
 If you want to run the app in your local machine, first install all the dependencies required for react native and then follow the instructions below:
 
