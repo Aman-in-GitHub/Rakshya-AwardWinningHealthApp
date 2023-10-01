@@ -25,7 +25,6 @@ Welcome to the **Rakshya** – your lifeline in critical situations. This app is
 
 - Navigate the app effortlessly using natural voice commands.
 - Simply ask for first aid guidance, and our app will provide the answers you seek.
--
 
 ### 📍 Precision Location Tracking
 
