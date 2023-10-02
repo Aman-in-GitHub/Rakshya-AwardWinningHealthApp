@@ -894,7 +894,7 @@ const HomePage = ({navigation}) => {
               ction
             </Text>
           </View>
-          <View className="flex flex-row flex-wrap mb-3">
+          <View className="flex flex-row flex-wrap justify-center mb-3">
             <TouchableOpacity
               className="flex justify-center items-center h-28 w-28 absolute top-[28%] left-[33%] z-50 rounded-full"
               style={{
@@ -916,7 +916,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 mb-4 mr-5 rounded-sm h-28"
+              className="flex items-center justify-center w-[47%] mb-4 mr-5 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
@@ -930,7 +930,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 rounded-sm h-28"
+              className="flex items-center justify-center w-[47%] rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
@@ -944,7 +944,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 mr-5 rounded-sm h-28"
+              className="flex items-center justify-center w-[47%] mr-5 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
@@ -958,7 +958,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-40 rounded-sm h-28"
+              className="flex items-center justify-center w-[47%] rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
