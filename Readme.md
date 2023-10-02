@@ -65,7 +65,7 @@ npx react-native run-ios
 
 ## Usage
 
-- Allow all the permissions asked during setup for the app to work as intended.
+- Allow all the permissions asked during setup for the app to work as intended. (Set location to Allowed all the time)
 - Restart the app once after the initial setup.
 - Double tap on screen to activate voice mode in home screen.
 - Voice commands at [Commands](https://github.com/Aman-in-GitHub/Rakshya-KUHackfest2023/blob/main/voicecommands.md).

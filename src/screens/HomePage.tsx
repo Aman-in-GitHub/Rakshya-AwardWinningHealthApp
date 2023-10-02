@@ -916,7 +916,7 @@ const HomePage = ({navigation}) => {
                   mode: isDarkMode,
                 });
               }}
-              className="flex items-center justify-center w-[47%] mb-4 mr-5 rounded-sm h-28"
+              className="flex items-center justify-center w-[47%] mb-5 mr-5 rounded-sm h-28"
               style={{backgroundColor: isDarkMode ? '#232323' : '#F4F4F4'}}>
               <Text
                 className="text-2xl text-center"
